@@ -13,9 +13,6 @@ Dataset de imagens de projeto de RNA e Deep Learning
 
 O modelo treinado possui performance de **96,7%**.
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
-
 ## Roboflow
 
 Link: [[Roboflow]([(https://universe.roboflow.com/vascmen98/times-de-pernambuco)https://universe.roboflow.com/vascmen98/times-de-pernambuco])]
