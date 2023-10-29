@@ -15,4 +15,4 @@ O modelo treinado possui performance de **96,7%**.
 
 ## Roboflow
 
-Link: [[Roboflow]([(https://universe.roboflow.com/vascmen98/times-de-pernambuco)https://universe.roboflow.com/vascmen98/times-de-pernambuco])]
+Link: [[Roboflow][(https://universe.roboflow.com/vascmen98/times-de-pernambuco)https://universe.roboflow.com/vascmen98/times-de-pernambuco])
