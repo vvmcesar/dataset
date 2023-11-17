@@ -11,7 +11,7 @@ Dataset de imagens de projeto de RNA e Deep Learning
 
 ## Performance
 
-O modelo treinado possui performance de **96,7%**.
+O modelo treinado possui performance de **71,43%**.
 
 ## Roboflow
 
